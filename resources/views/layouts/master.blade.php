@@ -58,7 +58,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                     <img src="./img/profile.png" class="img-circle elevation-2" alt="User Image">
                 </div>
                 <div class="info">
-                    <a href="#" class="d-block">Stephen Sharp</a>
+                    <a href="#" class="d-block">Stephen Sharpe</a>
                 </div>
             </div>
 
